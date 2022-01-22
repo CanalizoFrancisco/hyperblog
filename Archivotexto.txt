@@ -2,3 +2,5 @@
 Este archivo es un archivo de texto
 para probar el funcionamiento de git
 durante el curso de git y github en Platzi
+Probaremos la funcionalidad de git haciendo
+algunas cambios a este archivo.
